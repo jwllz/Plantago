@@ -1,0 +1,174 @@
+Date,site_code,transect_Lat_start,transect_Lon_start,transect_Lat_stop,transect_Lon_stop,Transect,Plot,Number_Seedlings,Plant_ID,x_coord,y_coord,suspected_clone,survival,no_rosettes,rosette_number,no_leaves,leaf_length (mm),leaf_width (mm),no_fl_stems,fl_stem_height (mm),inflor_length (mm),inflor_phenology,powdery_mildew,other_disease_or_herbivory,other_disease (yes/no),disease_comments,herbivory (yes/no),herbivory_comments,other_disease_or_herbivory,other_disease_or_herbivory_comment,notes,Entered By,Checked By
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P18,14,26,39.5,42.8,NO,NA,1,1,8,252,9,0,NA,NA,NA,NO,no,no,NA,no,NA,0,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P18,14,9,29,22.1,NO,NA,3,1,9,282,20,0,NA,NA,NA,NO,herbivory,no,NA,yes,herbivory observed,1,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P18,14,9,28.7,22.6,NO,NA,3,2,8,272,19,2,352,21,seed present,NO,no,no,NA,no,NA,0,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P18,14,9,27.2,22.6,NO,NA,3,3,5,185,9,0,NA,NA,NA,NO,no,no,NA,no,NA,0,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P18,14,125,14,48,NO,NA,1,1,5,285,23,2,500,30,seed present,NO,no,no,NA,no,NA,0,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P19,12,7,24.6,8,NO,NA,1,1,8,282,16,0,NA,NA,NA,NO,herbivory,no,NA,yes,herbivory observed,1,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P19,12,120,45.2,9.5,NO,NA,1,1,6,203,9,1,307,12,flowering,NO,herbivory,no,NA,yes,herbivory observed,1,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P19,12,121,40,27,NO,NA,2,1,6,260,25,0,NA,NA,NA,NO,herbivory,no,NA,yes,herbivory observed,1,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P19,12,121,40,27,NO,NA,2,2,2,210,12,0,NA,NA,NA,NO,herbivory,no,NA,yes,herbivory observed,1,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P19,12,5,24.5,49.6,NO,NA,3,1,5,321,33,2,404,19,seed present,NO,herbivory,no,NA,yes,herbivory observed,1,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P19,12,5,26.2,49.8,NO,NA,3,2,6,293,32,1,360,15,flowering,NO,damaged leaves,NA,NA,NA,NA,NA,damaged leaves,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P18,12,122,8.5,23.9,NO,NA,2,1,6,349,16,0,NA,NA,NA,NO,herbivory,no,NA,yes,herbivory observed,1,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P18,12,122,9.2,25.2,NO,NA,2,2,5,342,10,2,332,15,seed present,NO,herbivory,no,NA,yes,herbivory observed,1,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P18,12,124,16.2,30.9,NO,NA,1,1,6,427,26,1,467,27,seed present,NO,herbivory,no,NA,yes,herbivory observed,1,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P18,12,123,11,44,NO,NA,1,1,4,303,13,0,NA,NA,NA,NO,herbivory,no,NA,yes,herbivory observed,1,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P20,11,117,20.2,15.1,NO,NA,1,1,6,160,22,1,248,16,flowering,NO,jagged holes,no,NA,yes,jagged holes,1,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P20,11,3,7,50,NO,NA,2,1,8,252,40,4,240,18,"1 in bud, 1 seed devleoping",NO,herbivory/damaged leaves,yes,damaged leaves,yes,"herbivory observed, damaged leaves",1,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P20,11,3,7,49,NO,NA,2,2,5,296,32,2,147,14,in bud,NO,herbivory/damaged leaves,yes,damaged leaves,yes,"herbivory observed, damaged leaves",1,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P20,11,2,18.6,32.8,NO,NA,3,1,4,245,13,0,NA,NA,NA,NO,herbivory,no,NA,yes,herbivory observed,1,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P20,11,2,19.2,32.8,NO,NA,3,2,8,236,19,0,NA,NA,NA,NO,no,no,NA,no,NA,0,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P20,11,2,20.8,32.8,NO,NA,3,3,5,267,18,0,NA,NA,NA,NO,no,no,NA,no,NA,0,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P20,11,4,16.5,39.4,NO,NA,1,1,1,242,21,0,NA,NA,NA,NO,herbivory,no,NA,yes,herbivory observed,1,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P20,11,2,25,50,NO,NA,1,1,6,410,22,0,NA,NA,NA,NO,wrinkled leaves,yes,wrinkled leaves,no,NA,1,,,ADH,ADH
+4/23/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P19,11,8,24.5,24.9,NO,NA,1,1,7,276,13,0,NA,NA,NA,NO,herbivory,no,NA,yes,herbivory observed,1,,,ADH,ADH
+4/22/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P01,0,38,37,41,NO,NA,1,1,11,204,18,6,379,210,no seed,NO,"jagged holes, yellow leaf",yes,yellow leaf,yes,jagged holes,1,,"corner of quadrat snag to side of rebar, origin (0,0) = bottom left, yellow ID#38, leaf, leaf length includes petiole, stem height = longest, can't tell if seed is setting or NOt, transect goes through large dead willow, no seed = past flowering but before seeds",ADH,ADH
+4/22/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P03,4,95,3.5,4.5,NO,NA,1,1,6,235,7,0,NA,NA,NA,NO,jagged holes,no,NA,yes,jagged holes,1,,"corner of quadrat snag to side of rebar, origin (0,0) = bottom left, yellow ID#38, leaf, leaf length includes petiole, stem height = longest, can't tell if seed is setting or NOt, transect goes through large dead willow, no seed = past flowering but before seeds",ADH,ADH
+4/22/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P03,4,110,49,48.5,NO,NA,1,1,5,185,7,0,NA,NA,NA,NO,jagged holes,no,NA,yes,jagged holes,1,,"corner of quadrat snag to side of rebar, origin (0,0) = bottom left, yellow ID#38, leaf, leaf length includes petiole, stem height = longest, can't tell if seed is setting or NOt, transect goes through large dead willow, no seed = past flowering but before seeds",ADH,ADH
+4/22/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P03,4,93,35.2,2.5,NO,NA,2,1,5,277,14,2,316,12,"1 seed developing, 1 flowering",NO,jagged holes,no,NA,yes,jagged holes,1,,"corner of quadrat snag to side of rebar, origin (0,0) = bottom left, yellow ID#38, leaf, leaf length includes petiole, stem height = longest, can't tell if seed is setting or NOt, transect goes through large dead willow, no seed = past flowering but before seeds",ADH,ADH
+4/22/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P03,4,93,35.2,2.5,NO,NA,2,2,5,279,11,0,NA,NA,NA,NO,jagged holes,no,NA,yes,jagged holes,1,,"corner of quadrat snag to side of rebar, origin (0,0) = bottom left, yellow ID#38, leaf, leaf length includes petiole, stem height = longest, can't tell if seed is setting or NOt, transect goes through large dead willow, no seed = past flowering but before seeds",ADH,ADH
+4/22/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P04,2,90,38,6.2,NO,NA,1,1,7,276,19,1,343,13,in bud,NO,"jagged holes, brown trim",yes,brown trim,yes,"jagged holes, brown trim",1,,"corner of quadrat snag to side of rebar, origin (0,0) = bottom left, yellow ID#38, leaf, leaf length includes petiole, stem height = longest, can't tell if seed is setting or NOt, transect goes through large dead willow, no seed = past flowering but before seeds",ADH,ADH
+4/22/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P04,2,29,41,23,NO,NA,1,1,4,262,15,1,639,38,seed developing,NO,jagged holes,no,NA,yes,jagged holes,1,,"corner of quadrat snag to side of rebar, origin (0,0) = bottom left, yellow ID#38, leaf, leaf length includes petiole, stem height = longest, can't tell if seed is setting or NOt, transect goes through large dead willow, no seed = past flowering but before seeds",ADH,ADH
+4/22/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P04,2,40,44,46.5,NO,NA,1,1,7,228,19,1,186,10,in bud,NO,"jagged holes, lesions",yes,lesions,yes,jagged holes,1,,"corner of quadrat snag to side of rebar, origin (0,0) = bottom left, yellow ID#38, leaf, leaf length includes petiole, stem height = longest, can't tell if seed is setting or NOt, transect goes through large dead willow, no seed = past flowering but before seeds",ADH,ADH
+4/22/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P05,5,58,23,44,NO,NA,1,1,8,310,40,3,331,17,in bud,NO,"jagged holes, lesions",yes,lesions,yes,jagged holes,1,,"corner of quadrat snag to side of rebar, origin (0,0) = bottom left, yellow ID#38, leaf, leaf length includes petiole, stem height = longest, can't tell if seed is setting or NOt, transect goes through large dead willow, no seed = past flowering but before seeds",ADH,ADH
+05/02/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,50,NA,NA,NA,NA,1,1,5,354,27,5,387,19,no seed,NO,"lesions, 3 flowering stalks are missing inflorescences",yes,lesions,yes,3 flowering stalks are missing inflorescences,1,,No X Y coordinates taken,AJL,ADH
+04/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P09,10,114,37,12,NO,NA,1,1,4,270,21,1,384,13,no seed,NO,lesions,yes,lesions,no,NA,1,,,AJL,ADH
+04/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P09,10,113,34,15,NO,NA,3,1,7,260,11,0,NA,NA,NA,NO,"lesions, 1 yellow leaf",yes,"lesions, 1 yellow leaf",no,NA,1,,,AJL,ADH
+04/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P09,10,113,34,15,NO,NA,3,2,5,215,13,0,NA,NA,NA,NO,lesions; 1 broken leaf,yes,lesions,yes,1 broken leaf,1,,,AJL,ADH
+04/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P09,10,113,34,15,NO,NA,3,3,8,332,12,1,302,11,in bud,NO,lesions,yes,lesions,no,NA,1,,,AJL,ADH
+04/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P09,10,33,24,23,NO,NA,1,1,5,235,13,1,20,6,in bud,NO,"lesions, jagged holes",yes,lesions,no,NA,1,,,AJL,ADH
+04/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P09,10,112,33,31,NO,NA,1,1,2,195,9,0,NA,NA,NA,NO,"lesions, one leaf broken",yes,lesions,yes,one leaf broken,1,,,AJL,ADH
+04/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P09,10,116,41,25,NO,NA,2,1,5,290,13,2,625,39,seed developing,NO,lesions,yes,lesions,no,NA,1,,,AJL,ADH
+04/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P09,10,116,41,25,NO,NA,2,2,6,300,14,1,480,23,flowering,NO,"lesions, jagged holes",yes,lesions,no,NA,1,,,AJL,ADH
+04/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P09,10,75,41,42,NO,NA,2,1,14,305,18,1,90,9,in bud,NO,"lesions, one yellow leaf",yes,"lesions, one yellow leaf",no,NA,1,,,AJL,ADH
+04/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P09,10,75,41,42,NO,NA,2,2,4,292,19,1,40,6,in bud,NO,lesions,yes,lesions,no,NA,1,,,AJL,ADH
+04/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P09,10,56,12,2,NO,NA,3,1,13,423,23,2,425,15,flowering,NO,jagged holes,no,NA,no,NA,1,,,AJL,ADH
+04/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P09,10,56,12,2,NO,NA,3,2,13,377,25,1,283,12,no seed,NO,"lesions, jagged holes",yes,lesions,no,NA,1,,,AJL,ADH
+04/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P09,10,56,12,2,NO,NA,3,3,7,435,30,4,385,12,no seed,NO,jagged holes,no,NA,no,NA,1,,1 dried yellow leaf,AJL,ADH
+04/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P09,10,41,14,20,NO,NA,3,1,4,284,11,0,NA,NA,NA,NO,"lesions, jagged holes",yes,lesions,no,NA,1,,,AJL,ADH
+04/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P09,10,41,14,20,NO,NA,3,2,11,335,13,0,NA,NA,NA,NO,feeding below leaf surface,no,NA,yes,feeding below leaf surface,1,,1 dried yellow leaf,AJL,ADH
+04/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P09,10,41,14,20,NO,NA,3,3,7,227,4,0,NA,NA,NA,NO,feeding below leaf surface,no,NA,yes,feeding below leaf surface,1,,,AJL,ADH
+04/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P09,10,118,6,29,NO,NA,2,1,5,275,13,1,227,8,no seed,NO,lesions,yes,lesions,no,NA,1,,1 yellow leaf,AJL,ADH
+04/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P09,10,118,6,29,NO,NA,2,2,4,291,11,0,NA,NA,NA,NO,"lesions, jagged holes",yes,lesions,no,NA,1,,1 yellow leaf,AJL,ADH
+04/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P09,10,119,17,35,NO,NA,1,1,6,189,11,1,151,8,in bud,NO,lesions,yes,lesions,no,NA,1,,,AJL,ADH
+04/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P09,10,115,30,7,NO,NA,1,1,3,205,9,0,NA,NA,NA,NO,jagged holes,no,NA,no,NA,1,,,AJL,ADH
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P07,19,92,31,11,NO,NA,1,1,7,325,32,5,660,37,flowering,NO,jagged holes,no,NA,no,NA,1,,2 broken inflorescences,AJL,ADH
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P07,19,76,49,35,NO,NA,1,1,15,280,15,0,NA,NA,flowering,NO,jagged holes,no,NA,no,NA,1,,NA,AJL,ADH
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P07,19,71,30,20,NO,NA,1,1,5,220,17,0,NA,NA,NA,NO,jagged holes,no,NA,no,NA,1,,,AJL,ADH
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,96,5,36,NO,NA,2,1,6,290,10,0,NA,NA,NA,NO,"jagged holes / yellow leaf, lesions, herbivory, huge cluster but seem to come from same base (notes merged from 2 duplicate entries)",yes,"yellow leaf, lesions",yes,herbivory observed,1,huge cluster but seem to come from same base (notes merged from 2 duplicate entries),,AJL,ADH
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,43,3.4,50,NO,NA,2,1,3,220,13,1,NA,23,flowering,NO,jagged holes / lesions (notes merged from 2 duplicate entries),yes,lesions,yes,jagged holes,1,notes merged from 2 duplicate entries,,AJL,AJL
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,43,3.5,50,NO,NA,2,2,3,245,14,0,300,NA,seed developing,NO,"jagged holes / lesions, 1 inflorescence has been ""topped""0 NO flowers/seeds left (notes merged from 2 duplicate entries)",yes,lesions,yes,"jagged holes, 1 inflorescence missing, no flowers/seeds left",1,notes merged from 2 duplicate entries,,AJL,AJL
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,47,32.4,5.5,NO,NA,1,1,4,284,13,0,NA,NA,NA,NO,jagged holes,no,NA,yes,jagged holes,1,,,AJL,AJL
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,96,4,36,NO,NA,3,2,3,230,8,0,NA,NA,NA,NO,jagged holes,no,NA,yes,jagged holes,1,,,AJL,AJL
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,96,4,36,NO,NA,3,3,3,287,9,1,406,12,seed developing,NO,herbivory,no,NA,yes,herbivory observed,1,,,AJL,AJL
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,96,4,36,NO,NA,3,1,8,266,7,0,NA,NA,NA,NO,dry leaves,yes,dry leaves,no,NA,1,,,AJL,AJL
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,55,15,2,NO,NA,2,2,2,215,11,0,NA,NA,NA,NO,no,no,NA,no,NA,0,,dried leaf top,ADH,ADH
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,111,21,37,NO,NA,4,2,3,323,10,0,NA,NA,NA,NO,no,no,NA,no,NA,0,,NA,ADH,ADH
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,111,21,37,NO,NA,4,3,5,303,7,0,NA,NA,NA,NO,no,no,NA,no,NA,0,,NA,ADH,ADH
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,111,21,37,NO,NA,4,4,4,455,8,0,NA,NA,NA,NO,no,no,NA,no,NA,0,,NA,ADH,ADH
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,47,44,9,NO,NA,1,1,4,310,20,0,NA,NA,NA,NO,no,no,NA,no,NA,0,,NA,ADH,ADH
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,35,42,29,NO,NA,2,1,2,370,22,0,NA,NA,NA,NO,no,no,NA,no,NA,0,,NA,ADH,ADH
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,35,45,29,NO,NA,2,2,7,235,8,1,160,10,no seed,NO,no,no,NA,no,NA,0,,NA,ADH,ADH
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,25,35,35,NO,NA,1,1,5,390,35,1,70,11,in bud,NO,no,no,NA,no,NA,0,,NA,ADH,ADH
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,66,46,0,NO,NA,3,1,5,310,15,0,NA,NA,NA,NO,no,no,NA,no,NA,0,,NA,ADH,ADH
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,99,7,8,NO,NA,6,1,8,290,18,0,NA,NA,NA,NO,no,no,NA,no,NA,0,,NA,AJL,ADH
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,99,6,6,NO,NA,6,2,8,290,16,0,NA,NA,NA,NO,no,no,NA,no,NA,0,,NA,AJL,ADH
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,99,5,6,NO,NA,6,3,5,290,15,0,NA,NA,NA,NO,no,no,NA,no,NA,0,,NA,AJL,ADH
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,99,6,8,NO,NA,6,4,13,370,25,2,310,14,seed developing,NO,no,no,NA,no,NA,0,,NA,AJL,ADH
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,99,6,10,NO,NA,6,5,9,270,14,1,220,9,NA,NO,no,no,NA,no,NA,0,,NA,AJL,ADH
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,107,14,29,NO,NA,2,1,3,300,22,NA,NA,NA,NA,NO,no,no,NA,no,NA,0,,NA,AJL,ADH
+4/23/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P08,14,107,11,29,NO,NA,2,2,2,190,8,NA,NA,NA,NA,NO,jagged holes,no,NA,yes,jagged holes,1,,NA,AJL,ADH
+4/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P10,9,70,33.2,3.6,NO,NA,3,1,8,236,15,0,NA,NA,NA,NO,herbivory,no,NA,yes,herbivory observed,1,,NA,ADH,ADH
+4/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P10,9,70,32.7,3.2,NO,NA,3,2,4,196,11,0,NA,NA,NA,NO,herbivory,no,NA,yes,herbivory observed,1,,NA,ADH,ADH
+4/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P10,9,70,35.4,2.5,NO,NA,3,3,5,175,14,1,382,12,flowering,NO,no,no,NA,no,NA,0,,inf bent,ADH,ADH
+4/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P10,9,42,31.2,16.2,NO,NA,3,1,9,266,29,0,NA,NA,NA,NO,herbivory,no,NA,yes,herbivory observed,1,,NA,ADH,ADH
+4/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P10,9,42,34.7,21.3,NO,NA,3,2,14,274,17,0,NA,NA,NA,NO,herbivory,no,NA,yes,herbivory observed,1,,NA,ADH,ADH
+4/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P10,9,42,33.9,15.4,NO,NA,3,3,8,242,21,0,NA,NA,NA,NO,herbivory,no,NA,yes,herbivory observed,1,,NA,ADH,ADH
+4/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P10,9,36,6.9,13.4,NO,NA,3,1,5,272,19,2,681,35,seed developing,NO,herbivory on leaf,no,NA,yes,herbivory observed on leaf,1,,NA,ADH,ADH
+4/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P10,9,36,8.4,12.8,NO,NA,3,2,4,232,18,0,NA,NA,NA,NO,no,no,NA,no,NA,0,,NA,ADH,ADH
+4/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P10,9,36,10.4,13.2,NO,NA,3,3,7,252,11,1,612,21,seed developing,NO,herbivory,no,NA,yes,herbivory observed,1,,NA,ADH,ADH
+4/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P10,9,91,44.8,35.1,NO,NA,3,1,6,284,22,2,241,4,"flowering, in bud",NO,Herbivory,no,NA,yes,herbivory observed,1,,NA,ADH,ADH
+4/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P10,9,91,47.6,33.9,NO,NA,3,2,5,305,24,1,479,17,seed developing,NO,Herbivory,no,NA,yes,herbivory observed,1,,NA,ADH,ADH
+4/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P10,9,91,46.5,36.5,NO,NA,3,3,6,319,24,2,441,14,"in bud, seed developing",NO,Herbivory,no,NA,yes,herbivory observed,1,,NA,ADH,ADH
+4/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P10,9,52,48.2,5.6,NO,NA,1,1,7,283,17,2,309,17,seed developing,NO,Herbivory,no,NA,yes,herbivory observed,1,,NA,ADH,ADH
+4/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P10,9,85,6.5,5.7,NO,NA,1,1,5,262,19,0,NA,NA,NA,NO,Herbivory,no,NA,yes,herbivory observed,1,,1 smashed leaf,ADH,ADH
+4/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P10,9,73,14.6,24.4,NO,NA,1,1,8,237,19,1,582,19,seed developing,NO,no,no,NA,no,NA,0,,infl smashed,ADH,ADH
+4/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P10,9,45,18.2,35.4,NO,NA,4,1,6,336,28,2,809,36,flowering,NO,Herbivory,no,NA,yes,herbivory observed,1,,NA,ADH,ADH
+4/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P10,9,45,18.5,37.6,NO,NA,4,2,6,325,25,3,849,46,"in bud, seed developing",NO,Herbivory,no,NA,yes,herbivory observed,1,,NA,ADH,ADH
+4/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P10,9,45,15.8,35.6,NO,NA,4,3,6,467,22,3,409,9,"in bud, seed developing",NO,Herbivory,no,NA,yes,herbivory observed,1,,NA,ADH,ADH
+4/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P10,9,45,18.9,34.5,NO,NA,4,4,5,412,24,1,370,12,seed developing,NO,Herbivory,no,NA,yes,herbivory observed,1,,NA,ADH,ADH
+4/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P10,9,37,22,31,NO,NA,1,1,4,170,10,0,NA,NA,NA,NO,lesions,yes,lesions,no,NA,1,,NA,ADH,ADH
+04/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,11,49,30,3.4,NO,NA,4,1,11,339,32,8,617,65,1 flowering,NO,Herbivory,no,NA,yes,herbivory observed,1,,NA,AJL,ADH
+04/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,11,49,33.5,2.7,NO,NA,4,2,4,374,25,1,227,16,in bud,NO,"Herbivory, 1 broken flower",no,NA,yes,"herbivory observed, 1 flower missing",1,,wavy leaves,AJL,ADH
+04/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,11,49,33.5,5,NO,NA,4,3,10,295,23,NA,NA,NA,NA,NO,Herbivory,no,NA,yes,herbivory observed,1,,"wavy leaves, 1 broken flower",AJL,ADH
+04/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,11,49,31.5,5,NO,NA,4,4,4,283,19,NA,NA,NA,NA,NO,Herbivory,no,NA,yes,herbivory observed,1,,wavy leaves,AJL,ADH
+04/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,11,31,4.4,21.4,NO,NA,3,1,6,310,18,1,582,33,seed developing,NO,Herbivory,no,NA,yes,herbivory observed,1,,jagged holes,AJL,ADH
+04/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,11,31,8.4,20.6,NO,NA,3,2,5,245,24,1,46,7,in bud,NO,Herbivory,no,NA,yes,herbivory observed,1,,NA,AJL,ADH
+04/25/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,11,31,4.4,19.9,NO,NA,3,3,4,289,17,3,637,37,seed developing,NO,Herbivory,no,NA,yes,herbivory observed,1,,brown splotches,AJL,ADH
+4/28/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,11,19,6.6,7.2,NO,NA,1,1,4,67,8,NA,NA,NA,NA,NO,Herbivory,no,NA,yes,herbivory observed,1,,NA,AJL,ADH
+4/28/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,11,198,2.4,12.1,NO,NA,1,1,8,213,15,2,378,10,seed developing,NO,Herbivory,no,NA,yes,herbivory observed,1,,brown spots,AJL,ADH
+4/28/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,11,52,2.2,7.5,NO,NA,1,1,9,290,18,3,312,18,3 seed developing,NO,Disease,yes,disease observed,no,NA,1,,brown spots,AJL,ADH
+4/28/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,11,126,5.7,42.4,NO,NA,1,1,5,239,16,4,467,18,"2 seed developing, 1 flowering, 1 in bud",NO,"Disease, Herbivory",yes,disease observed,yes,herbivory observed,1,,distorted yellow leaf,AJL,ADH
+4/28/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,11,57,16,9,NO,NA,1,1,6,254,17,4,495,18,4 seed developing,YES,"Disease, Herbivory",yes,disease observed,yes,herbivory observed,1,,NA,AJL,ADH
+4/28/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,11,34,6.2,39,NO,NA,3,1,4,201,9,NA,NA,NA,NA,NO,Herbivory,no,NA,yes,herbivory observed,1,,NA,AJL,ADH
+4/28/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,11,34,7.6,39.7,NO,NA,3,2,6,298,24,1,73,7,in bud,NO,Herbivory,no,NA,yes,herbivory observed,1,,NA,AJL,ADH
+4/28/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,11,34,8.4,40.7,NO,NA,3,3,4,252,16,NA,NA,NA,NA,NO,Herbivory,no,NA,yes,herbivory observed,1,,NA,AJL,ADH
+4/28/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,11,127,10.9,43,NO,NA,3,1,6,255,16,2,562,36,2 seed developing,NO,Herbivory,no,NA,yes,herbivory observed,1,,brown holes,AJL,ADH
+4/28/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,11,128,10.7,48.8,NO,NA,3,1,4,224,17,1,139,NA,NA,NO,no,no,NA,no,NA,0,,broken off inflorescence,AJL,ADH
+4/28/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,12,53,24,17,NO,NA,2,1,5,241,18,NA,NA,NA,NA,NO,Herbivory,no,NA,yes,herbivory observed,1,,,AJL,AJL
+4/28/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,12,53,27,17,NO,NA,2,2,6,202,14,1,495,21,seed developing,NO,Herbivory,no,NA,yes,herbivory observed,1,,,AJL,AJL
+4/28/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,12,77,40,38,NO,NA,2,1,3,141,5,NA,NA,NA,NA,NO,Herbivory,no,NA,yes,herbivory observed,1,,,AJL,AJL
+4/28/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,12,77,40,38,NO,NA,2,2,5,216,11,NA,NA,NA,NA,NO,Herbivory,no,NA,yes,herbivory observed,1,,,AJL,AJL
+4/28/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,12,60,47,30,NO,NA,5,1,4,273,13,1,550,25,seed developing,NO,"Herbivory, disease",yes,disease observed,yes,herbivory observed,1,,brown spots,AJL,AJL
+4/28/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,12,60,47,30,NO,NA,5,2,4,224,13,2,515,31,"1 in bud, 1 seed developing",NO,"Herbivory, disease",yes,disease observed,yes,herbivory observed,1,,brown spots,AJL,AJL
+4/28/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,12,60,47,30,NO,NA,5,3,3,230,8,NA,NA,NA,NA,NO,"Herbivory, disease",yes,disease observed,yes,herbivory observed,1,,brown spots,AJL,AJL
+4/28/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,12,60,47,30,NO,NA,5,4,6,262,13,2,20,5,2 in bud,NO,disease,yes,disease observed,no,NA,1,,"1 broken flower, brown spot",AJL,AJL
+4/28/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P11,12,60,47,30,NO,NA,5,5,5,235,20,1,230,7,in bud,NO,"herbivory, disease",yes,disease observed,yes,herbivory observed,1,,brown spots,AJL,AJL
+4/29/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P12,13,23,18,8,NO,NA,3,1,7,333,20,2,292,14,no seed,NO,"jagged holes, lesions, below surface surface",yes,lesions,yes,"herbivory observed, feeding below leaf surface",1,,,AJL,AJL
+4/29/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P12,13,23,18,8,NO,NA,3,2,4,313,20,NA,NA,NA,NA,NO,no,no,NA,no,NA,1,,,AJL,AJL
+4/29/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P12,13,23,18,8,NO,NA,3,3,4,207,22,NA,NA,NA,NA,NO,jagged holes,no,NA,yes,herbivory observed,1,,,AJL,AJL
+4/29/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P12,13,83,7,13,NO,NA,1,1,6,269,21,2,105,5,no seed,NO,"lesions, feeding holes",yes,lesions,yes,feeding holes,1,,flowers look stunted may not produce seeds,AJL,AJL
+4/29/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P12,13,64,23,15,NO,NA,4,1,3,227,10,NA,NA,NA,NA,NO,no,no,NA,no,NA,0,,,AJL,AJL
+4/29/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P12,13,64,23,15,NO,NA,4,2,3,190,7,NA,NA,NA,NA,NO,no,no,NA,no,NA,0,,,AJL,AJL
+4/29/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P12,13,64,23,15,NO,NA,4,3,4,107,4,NA,NA,NA,NA,NO,no,no,NA,no,NA,0,,,AJL,AJL
+4/29/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P12,13,64,23,15,NO,NA,4,4,2,50,1,NA,NA,NA,NA,NO,no,no,NA,no,NA,0,,,AJL,AJL
+4/29/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P12,13,130,27,25,NO,NA,1,1,4,146,11,NA,NA,NA,NA,NO,herbivory,no,NA,yes,herbivory observed,1,,,AJL,AJL
+4/29/16,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P12,13,131,30,32,NO,NA,1,1,6,163,8,NA,NA,NA,NA,NO,curled leafs,yes,curled leafs,no,NA,1,,,AJL,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P17,5,11,40,27,NO,NA,5,1,6,365,20,1,215,13,in bud,NO,jagged holes,no,NA,yes,jagged holes,1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P17,5,11,40,27,NO,NA,5,2,4,210,10,0,NA,NA,NA,NO,jagged holes,no,NA,yes,jagged holes,1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P17,5,11,40,27,NO,NA,5,3,2,235,9,0,NA,NA,NA,NO,yellowish leaves,yes,yellowish leaves,no,NA,1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P17,5,11,40,27,NO,NA,5,4,6,260,12,0,NA,NA,NA,NO,brown spots,yes,brown spots,no,NA,1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P17,5,11,40,27,NO,NA,5,5,20,335,21,3,400,NA,NA,NO,herbivory,no,NA,yes,herbivory observed,1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P17,5,199,19,14,NO,NA,2,1,4,331,15,0,NA,NA,NA,NO,jagged holes,no,NA,yes,jagged holes,1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P17,5,199,19,14,NO,NA,2,2,3,320,20,0,NA,NA,NA,NO,"jagged holes, herbivory",no,NA,yes,"jagged holes, herbivory observed",1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P17,5,12,33,10,NO,NA,1,1,10,270,18,0,NA,NA,NA,NO,"jagged holes, herbivory",no,NA,yes,"jagged holes, herbivory observed",1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P17,5,21,4,44,NO,NA,1,1,4,289,18,2,321,14,in bud,NO,"wilting top, jagged holes, brown spots",yes,"wilting top, brown spots",yes,jagged holes,1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P17,5,133,7,36,NO,NA,1,1,5,275,16,1,40,7,in bud,YES,"brown spots, jagged holes",yes,brown spots,yes,jagged holes,1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P14,5,15,7,10,NO,NA,2,1,16,290,15,0,NA,NA,NA,NO,herbivory,no,NA,yes,herbivory observed,1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P14,5,15,7,10,NO,NA,2,2,13,310,18,1,240,12,in bud,NO,herbivory,no,NA,yes,herbivory observed,1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P15,8,18,25.5,44,NO,NA,1,1,5,150,8,0,NA,NA,NA,NO,herbivory,no,NA,yes,herbivory observed,1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P15,8,20,35,16,NO,NA,2,1,5,200,8,0,NA,NA,NA,NO,brown spots,yes,brown spots,no,NA,1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P15,8,20,35,16,NO,NA,2,2,5,130,10,0,NA,NA,NA,NO,"herbivory, brown spots",yes,brown spots,yes,herbivory observed,1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P15,8,16,50,29,NO,NA,2,1,4,290,10,0,NA,NA,NA,NO,"herbivory, holes",no,NA,yes,"herbivory observed, jagged holes",1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P15,8,16,50,29,NO,NA,2,2,4,20,12,0,NA,NA,NA,NO,"herbivory, jagged holes",no,NA,yes,"herbivory observed, jagged holes",1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P17,5,62,11,24,NO,NA,1,1,3,231,10,0,NA,NA,NA,NO,jagged holes,no,NA,yes,jagged holes,1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P17,5,14,28,44,NO,NA,1,1,7,330,13,0,NA,NA,NA,NO,herbivory,no,NA,yes,herbivory observed,1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P17,5,10,35,23,NO,NA,1,1,7,370,30,3,680,69,"90% seed developing, 10% flowering",NO,no,no,NA,no,NA,0,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P13,2,24,8,49,NO,NA,1,1,6,220,10,NA,NA,NA,NA,NO,jagged holes,no,NA,yes,jagged holes,1,,below surface boring lesions,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P13,2,108,4.8,13,NO,NA,1,1,4,167,9,NA,NA,NA,NA,NO,"jagged holes, lesions",yes,lesions,yes,jagged holes,1,,black residue,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P13,2,22,3.5,22,NO,NA,1,1,5,288,15,NA,NA,NA,NA,NO,"jagged holes, lesions",yes,lesions,yes,jagged holes,1,,"1 leaf is brown, black residue",ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P16,11,13,10.5,39,NO,NA,3,1,13,328,19,NA,NA,NA,NA,NO,"jagged holes, lesions",yes,lesions,yes,jagged holes,1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P16,11,13,10.5,39,NO,NA,3,2,5,288,19,NA,NA,NA,NA,NO,jagged holes,no,NA,yes,jagged holes,1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P16,11,13,11,43,NO,NA,3,3,5,80,17,2,216,15,in bud,NO,black residue,yes,black residue,no,NA,1,,"top section of leaf chopped off, leaf split in middle, black residue",ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P16,11,109,13.5,36.5,YES,NA,1,1,5,264,13,NA,NA,NA,NA,NO,"jagged holes, black residue, lesions, yellow leaf",yes,"black residue, lesions, yellow leaf",yes,jagged holes ,1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P12,13,67,15,42,"YES, see notes",NA,3,1,5,333,18,0,NA,NA,NA,NO,jagged holes,no,NA,yes,jagged holes,1,,"one large rosette, maybe a separate individual but more likely a clone",ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P12,13,67,15,42,"YES, see notes",NA,3,2,5,342,22,1,108,8,no seed,NO,jagged holes,no,NA,yes,jagged holes,1,,"stunted inflorescence, may not get seed",ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P12,13,67,15,42,"YES, see notes",NA,3,3,4,205,11,0,NA,NA,NA,NO,herbivory,no,NA,yes,herbivory observed,1,,wrinkled leaf,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P12,13,132,10,33,NO,NA,1,1,4,222,16,1,672,33,seed developing,NO,jagged holes,no,NA,yes,jagged holes,1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P12,13,60,0,31,NO,NA,4,1,10,267,13,1,228,9,in bud,NO,"lesions, jagged holes",yes,lesions,yes,jagged holes,1,,right on edge of plot 8,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P12,13,60,0,31,NO,NA,4,2,4,202,10,0,NA,NA,NA,NO,"jagged holes, herbivory",no,NA,yes,"jagged holes, herbivory observed",1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P12,13,60,0,31,NO,NA,4,3,6,238,16,2,527,32,seed developing,NO,lesions,yes,lesions,no,NA,1,,,ADH,AJL
+4/29/2016,PC,10 S 0607724,4263981,10 S 0607729,4263979,T1,P12,13,60,0,31,NO,NA,4,4,4,225,17,1,541,25,seed developing,NO,"feeding holes, lesions",yes,feeding holes,yes,feeding holes,1,,,ADH,AJL
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,1.01369863,,,,,,,,,,,,,,
